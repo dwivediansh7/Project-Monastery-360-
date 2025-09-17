@@ -1,0 +1,101 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-monastery",
+      "description": "A grand monastery in Sikkim.",
+      "imageUrl": "https://1001things.org/wp-content/uploads/2019/02/Lingdum-1.jpg",
+      "imageHint": "Sikkim monastery"
+    },
+    {
+      "id": "monastery-1",
+      "description": "Rumtek Monastery",
+      "imageUrl": "https://www.elginhotels.com/wp-content/uploads/2020/03/rumtek-monastery-01.jpg.webp",
+      "imageHint": "monastery architecture"
+    },
+    {
+      "id": "monastery-2",
+      "description": "Pemayangtse Monastery",
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/761013352/display_1500/stock-photo-sangchen-pemayangtse-monastery-indian-state-of-sikkim-761013352.jpg",
+      "imageHint": "ancient monastery"
+    },
+    {
+      "id": "monastery-3",
+      "description": "Tashiding Monastery",
+      "imageUrl": "https://tripxl.com/blog/wp-content/uploads/2024/08/Tashiding-Monastery-OG-Photo.jpg",
+      "imageHint": "buddhist temple"
+    },
+    {
+      "id": "manuscript-1",
+      "description": "Ancient manuscript page",
+      "imageUrl": "https://picsum.photos/seed/manuscript1/300/400",
+      "imageHint": "old manuscript"
+    },
+    {
+      "id": "mural-1",
+      "description": "Colorful wall mural",
+      "imageUrl": "https://picsum.photos/seed/mural1/400/300",
+      "imageHint": "buddhist mural"
+    },
+    {
+      "id": "document-1",
+      "description": "Historical document",
+      "imageUrl": "https://picsum.photos/seed/doc1/300/400",
+      "imageHint": "old paper"
+    },
+    {
+      "id": "tour-1",
+      "description": "360 view of Rumtek Monastery",
+      "imageUrl": "https://picsum.photos/seed/tour-rumtek/2048/1024",
+      "imageHint": "monastery interior panorama"
+    },
+    {
+      "id": "tour-2",
+      "description": "360 view of Pemayangtse Monastery",
+      "imageUrl": "https://picsum.photos/seed/tour-pemayangtse/2048/1024",
+      "imageHint": "temple hall panorama"
+    },
+    {
+      "id": "tour-3",
+      "description": "360 view of Tashiding Monastery",
+      "imageUrl": "https://picsum.photos/seed/tour-tashiding/2048/1024",
+      "imageHint": "sacred shrine panorama"
+    },
+    {
+      "id": "saga-dawa",
+      "description": "Saga Dawa festival celebration",
+      "imageUrl": "https://c8.alamy.com/comp/FH3KXB/mask-dance-performed-by-tibetan-lamas-during-the-annual-saga-dawa-FH3KXB.jpg",
+      "imageHint": "buddhist festival"
+    },
+    {
+      "id": "lhabab-duchen",
+      "description": "Lhabab Duchen ceremony",
+      "imageUrl": "https://buddhaweekly.com/wp-content/uploads/Buddha-descends-from-heavenBuddha-Weekly.jpg",
+      "imageHint": "monastery prayer"
+    },
+    {
+      "id": "cham-dance",
+      "description": "Cham Dance performance",
+      "imageUrl": "https://picsum.photos/seed/cham-dance/400/300",
+      "imageHint": "masked dance"
+    },
+    {
+      "id": "losar",
+      "description": "Losar new year festival",
+      "imageUrl": "https://picsum.photos/seed/losar/400/300",
+      "imageHint": "new year celebration"
+    },
+    {
+      "id": "guru-rinpoche",
+      "description": "Guru Rinpoche's Trungkar Tsechu festival",
+      "imageUrl": "https://picsum.photos/seed/guru-rinpoche/400/300",
+      "imageHint": "buddhist ceremony"
+    },
+    {
+      "id": "pang-lhabsol",
+      "description": "Pang Lhabsol festival",
+      "imageUrl": "https://picsum.photos/seed/pang-lhabsol/400/300",
+      "imageHint": "mountain festival"
+    }
+  ]
+}

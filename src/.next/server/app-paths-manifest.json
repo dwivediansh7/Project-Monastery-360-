@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/walkthroughs/page": "app/walkthroughs/page.js",
+  "/tours/page": "app/tours/page.js",
+  "/archive/page": "app/archive/page.js",
+  "/tours/[id]/page": "app/tours/[id]/page.js",
+  "/calendar/page": "app/calendar/page.js",
+  "/map/page": "app/map/page.js",
+  "/services/page": "app/services/page.js"
+}

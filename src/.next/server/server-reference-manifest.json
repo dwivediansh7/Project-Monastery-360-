@@ -1,0 +1,52 @@
+{
+  "node": {
+    "6ecda9326dd6b533523aa8a2378cf2b3433e0c7f": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/walkthroughs/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/tours/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/tours/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Cai%5C%5Cflows%5C%5Ctravel-advisor.ts%22%2C%5B%22getTravelAdvice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Ctours%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22getAudioForMonasteryDetails%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/archive/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Carchive%5C%5Cactions.ts%22%2C%5B%22getImageAnalysis%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/calendar/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/map/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!",
+        "app/services/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/walkthroughs/page": "action-browser",
+        "app/tours/page": "action-browser",
+        "app/tours/[id]/page": "action-browser",
+        "app/archive/page": "action-browser",
+        "app/calendar/page": "action-browser",
+        "app/map/page": "action-browser",
+        "app/services/page": "action-browser"
+      }
+    },
+    "bc638a6b4859b3c2915bc5710f8608302c11cb8d": {
+      "workers": {
+        "app/tours/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Cai%5C%5Cflows%5C%5Ctravel-advisor.ts%22%2C%5B%22getTravelAdvice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Ctours%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22getAudioForMonasteryDetails%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/tours/[id]/page": "action-browser"
+      }
+    },
+    "7d530d2ab86d17ab41cf9b6c77a4de7f809000c1": {
+      "workers": {
+        "app/tours/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Cai%5C%5Cflows%5C%5Ctravel-advisor.ts%22%2C%5B%22getTravelAdvice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Ctours%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22getAudioForMonasteryDetails%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/tours/[id]/page": "action-browser"
+      }
+    },
+    "82519c5e7efe74e5889a335bdc7acbb83b9eb894": {
+      "workers": {
+        "app/archive/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Carchive%5C%5Cactions.ts%22%2C%5B%22getImageAnalysis%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Canshd%5C%5CDownloads%5C%5Cdownload%5C%5Csrc%5C%5Capp%5C%5Cchatbot%5C%5Cactions.ts%22%2C%5B%22sendMessage%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/archive/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "TUG58YziLISboIJZxwO1M84vgg4lP7ZzNyvxgqdQQx0="
+}
